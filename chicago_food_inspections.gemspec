@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Read Chicago food inspection reports"
   spec.description   = "This will allow you to pull inspection data from the City of Chicago website on food/restaurant inspections"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/millarba/chicago_food_inspections"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
